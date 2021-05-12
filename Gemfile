@@ -1,5 +1,5 @@
 ruby '>= 2.5'
-source 'https://rubygems.org'
+source 'http://rubygems.org'
 
 # Middleman
 gem 'middleman', :github => 'middleman/middleman', :branch => '4.x'
